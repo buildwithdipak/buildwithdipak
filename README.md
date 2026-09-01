@@ -92,9 +92,7 @@ and experimenting with Python, AI, and web security.
 ## 📈 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithdipak&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buildwithdipak&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
