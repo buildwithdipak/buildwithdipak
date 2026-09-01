@@ -77,6 +77,35 @@ and experimenting with Python, AI, and web security.
 
 ---
 
+## 🌐 Contact Me
+
+<p align="center">
+
+<a href="https://buildwithdipak.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/buildwithdipak">
+  <img src="https://img.shields.io/badge/GitHub-buildwithdipak-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/deepak-maurya-2004-/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/_aikokusha.2004_/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  💬 Let's connect, collaborate, and build something meaningful together.
+</p>
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
