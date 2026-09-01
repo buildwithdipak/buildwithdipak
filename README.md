@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World! I'm Dipak Kumar Maurya</h1>
+<h1 align="center">👋  I'm Dipak Kumar Maurya</h1>
 
 <h3 align="center">
   Web Developer | Python Developer | AI & Security Enthusiast
