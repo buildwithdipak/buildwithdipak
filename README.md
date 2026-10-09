@@ -6,12 +6,15 @@
 
 <p align="center">
   <a href="https://buildwithdipak.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://github.com/buildwithdipak">
-    <img src="https://img.shields.io/badge/GitHub-buildwithdipak-181717?style=for-the-badge&logo=github" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/buildwithdipak/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+
 
 ---
 
